@@ -1,5 +1,8 @@
-# A Propos - Talking about me
-20 y/o French software engineer | Last year MSc @Centrale Nantes, Computer Science and Management.\
+## Who am I ? 🤔
+🙋🏼‍♂️ 20 y/o French software engineer\
+🎓  Last year MSc @Centrale Nantes, Computer Science and Management.
+
+##  Software Development 💻
 I love working on differents aspects of software development.
 
 I already worked as a freelance product owner on Junior Entreprise contracts, \
