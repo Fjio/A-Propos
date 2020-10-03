@@ -1,6 +1,6 @@
 ## Who am I ? 🤔
-🙋🏼‍♂️ 20 y/o French software engineer\
-🎓  Last year MSc @Centrale Nantes, Computer Science and Management.
+🙋🏼‍♂️ 21 y/o French software engineer\
+🎓  Last year MEng @Centrale Nantes, Computer Science and Management.
 
 ##  Software Development 💻
 I love working on differents aspects of software development.
