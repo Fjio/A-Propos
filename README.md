@@ -4,7 +4,7 @@
 
 - 👨🏼‍💻I'm currently working as a Software Engineer at [Shift Technology](https://www.shift-technology.com/)
 
-- 🎓 I recently graduated from [Ecole Centrale de Nantes](https://www.ec-nantes.fr/english-version) with a Master's Degree in Computer Science.
+- 🎓 I graduated from [Ecole Centrale de Nantes](https://www.ec-nantes.fr/english-version) with a Master's Degree in Computer Science.
 
 - 🕵🏼‍♂️ I'm always looking for technologies to try out... and I have fun with it!
 
