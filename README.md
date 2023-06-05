@@ -23,7 +23,7 @@ Here are the languages I feel confident with, starting from the ones I consider 
 ![PHP](https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php_32x32.png)
 
 ## Key Pierre Indicators ⚙️
-
+This section is not working anymore. To be updated.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fjio&hide=TeX&layout=compact&theme=radical)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fjio&count_private=true&show_icons=true&theme=radical)
