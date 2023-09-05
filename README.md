@@ -8,7 +8,7 @@
 
 - 🕵🏼‍♂️ I'm always looking for technologies to try out... and I have fun with it!
 
-- 📱 You can reach out here -> [Pierre on Linkedin](https://www.linkedin/in/pierre-bourreau/)
+- 📱 You can reach out here -> [Pierre on Linkedin](https://www.linkedin.com/in/pierre-bourreau/)
 
 ## What am I working with ? 💻
 
